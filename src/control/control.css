@@ -1,0 +1,24 @@
+.controlNumber {
+  color: blue;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  font-weight: bold;
+}
+
+.dangerBTN {
+  background: red;
+  color: white;
+}
+
+.resultBTN {
+  background: blue;
+  color: white;
+}
+
+.controlMain {
+  background-color: gray;
+  color: white;
+}
